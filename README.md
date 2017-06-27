@@ -1,0 +1,1 @@
+In this tutorial we are going to set up a maven project using Jetty and Jersey to create a simple REST service. Use your editor of choice. I am using IntelliJ Community Edition and this tutorial will follow the settings and structure of that editor.
